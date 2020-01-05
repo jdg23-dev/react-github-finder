@@ -11,6 +11,6 @@ To get the frontend running locally:
 - `npm install` to install all required dependencies
 - `npm start` to start the local server (this project uses create-react-app)
 
-Local web server will use the standard React's port 3000
+Local web server will use the standard React port 3000
 
 I would like to credit Brad Traversy for his tutorial course -React Front To Back- on Udemy.
